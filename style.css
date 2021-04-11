@@ -20,3 +20,13 @@ a {
     margin: 70vh;
     padding: 10px;
   }
+@media only screen and (max-width: 500px) {
+  /* For mobile phones: */
+ p {
+    width: 100%;
+  }
+h1 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
