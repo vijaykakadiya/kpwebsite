@@ -26,6 +26,7 @@ a {
     width: 100%;
   }
 h1 {
+    display: block;
     font-size: 18px;
     font-weight: bold;
     text-align: center;
